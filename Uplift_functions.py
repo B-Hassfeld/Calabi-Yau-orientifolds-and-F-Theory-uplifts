@@ -18,7 +18,7 @@ import pyarrow.parquet as pq
 import pyarrow as pa
 
 
-def fetch_f_theory_uplifts(
+def fetch_nef_partition_uplifts(
     h11=None,
     h21=None,
     limit=100,
